@@ -10,7 +10,7 @@ The days of remembering long ALT codes or searching the web for a copy & paste a
   1.1 Download `Accent Copier.crx` from the release page <br>
   1.2 Open [chrome://extensions](chrome://extensions)<br>
   1.3 Turn on Developer Mode via the switch in the top right<br>
-  1.4 Drag and Drop "Accent Copier.crx" onto the page<br>
+  1.4 Drag and Drop `Accent Copier.crx` onto the page<br>
 2. Via manifest (Firefox):<br>
   2.1 Download the `manifest.json` file above<br>
   2.2 Open [about:debugging#/runtime/this-firefox](about:debugging#/runtime/this-firefox)<br>
