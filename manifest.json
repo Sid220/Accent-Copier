@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "Accent Copier",
-    "version": "2.0",
+    "version": "3.0",
     "description": "Copy Everything",
     "action": {
         "default_popup": "popup.html"
