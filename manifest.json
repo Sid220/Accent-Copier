@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "Accent Copier",
-    "version": "4.0",
+    "version": "5.0",
     "description": "Copy Everything",
     "action": {
         "default_popup": "popup.html"
@@ -11,5 +11,12 @@
         "32": "icon32.png",
         "48": "icon48.png",
         "128": "icon128.png"
-    }
+    },
+    "browser_specific_settings": {
+  "gecko": {
+    "id": "{d12e3995-80a4-435a-9308-97f644e76d84}",
+    "strict_min_version": "58.0"
+  }
+}
+
 }
