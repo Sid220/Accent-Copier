@@ -53,7 +53,7 @@ for (let i = 0; i < btns.length; i++) {
     });
 }
 
-registeredTabs = ["FR", "ES", "DE", "IT", "PT", "NL", "more", "about"];
+registeredTabs = ["FR", "ES", "DE", "IT", "PT", "NL", "PL", "more", "about"];
 let pref = localStorage.getItem("pref");
 if(registeredTabs.includes(pref)) {
     document.getElementById(pref).click();
